@@ -1,6 +1,8 @@
 ### About me 👋
 ### Contact
-loclm9824@gmail.com
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mygPAYUC) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/minhminh24x/)
+
 ### 📊GitHub Stats :
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=minhminh24x&show_icons=true&count_private=true">
