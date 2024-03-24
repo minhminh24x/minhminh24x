@@ -2,7 +2,7 @@
 ### Contact
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mygPAYUC) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/minhminh24x/)
-[![Linkedln](https://img.shields.io/badge/Linkedln-%231877F2.svg?logo=Linkedln&logoColor=white)](https://www.facebook.com/minhminh24x/)
+[![Linkedln](https://img.shields.io/badge/Linkedln-#0A66C2.svg?logo=Linkedln&logoColor=white)](https://www.facebook.com/minhminh24x/)
 
 ### 📊GitHub Stats :
 <p align='center'>
