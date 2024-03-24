@@ -1,4 +1,6 @@
 ### About me 👋
+### Contact
+loclm9824@gmail.com
 ### 📊GitHub Stats :
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=minhminh24x&show_icons=true&count_private=true">
