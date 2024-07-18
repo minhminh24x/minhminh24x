@@ -20,6 +20,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=minhminh24x&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=minhminh24x&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=HSGamer&icon=2&color=0)](https://visitcount.itsvg.in) [![committers.top badge](https://user-badge.committers.top/vietnam/HSGamer.svg)](https://user-badge.committers.top/vietnam/HSGamer) [![libera manifesto](https://img.shields.io/badge/libera-manifesto-lightgrey.svg)](https://liberamanifesto.com)
+
 <!--
 **minhminh24x/minhminh24x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
