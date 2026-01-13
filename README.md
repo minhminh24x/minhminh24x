@@ -1,16 +1,15 @@
 <!-- ✨ README PROFILE của @minhminh24x ✨ -->
 
 <h1 align="center">👋 Xin chào, mình là <span style="color:#00BFFF">Lê Minh Lộc</span>!</h1>
-<h3 align="center">💻 Backend Developer | Web & System Developer | IoT & Game Enthusiast</h3>
+<h3 align="center"> Backend Developer | Web & System Developer | IoT & Game Enthusiast</h3>
 
 ---
 
 ## 🌟 About Me  
-- 🔭 Hiện tại mình đang tập trung phát triển kỹ năng **Backend Web Development** với **Java (Spring Boot)**, **JSP/Servlet**, và **SQL Server / PostgreSQL**  
-- 💡 Quan tâm đến **System Design**, **Entity Framework Core (C#)** và **RESTful API Architecture**  
-- 🌱 Đang học thêm **React + Vite** để xây dựng frontend hiện đại cho các dự án web  
-- 🐳 Bắt đầu tìm hiểu về **Docker**, **Cloudflare Tunnel**, và **API Deployment**  
-- ⚡ Fun fact: Mình thích kết hợp phần mềm và phần cứng để tạo ra những dự án có tính tương tác thực tế  
+-  Hiện tại mình đang tập trung phát triển kỹ năng **Backend Web Development** với **Java (Spring Boot)**, **JSP/Servlet**, và **SQL Server / PostgreSQL**  
+-  Quan tâm đến **System Design**, **Entity Framework Core (C#)** và **RESTful API Architecture**  
+-  Đang học thêm **React + Vite** để xây dựng frontend hiện đại cho các dự án web  
+-  Bắt đầu tìm hiểu về **Docker**, **Cloudflare Tunnel**, và **API Deployment**  
 
 ---
 
@@ -43,12 +42,12 @@
 ## ⚙️ Tech Focus  
 | Mảng | Mô tả |
 |------|-------|
-| 🔐 **Backend** | Java Spring Boot, JSP/Servlet, REST API, Authentication & Authorization |
-| 🗄️ **Database** | PostgreSQL, Microsoft SQL Server, MySQL |
-| 🧩 **Frontend** | React + Vite, HTML5, CSS3, JavaScript |
-| 🧱 **System** | Docker, Cloudflare Tunnel, GitHub Actions |
-| 🖥️ **Desktop** | C#, WPF, MVVM, Entity Framework Core |
-| 🤖 **IoT** | Arduino (Sensors, LCD, Motor Control) |
+|  **Backend** | Java Spring Boot, JSP/Servlet, REST API, Authentication & Authorization |
+|  **Database** | PostgreSQL, Microsoft SQL Server, MySQL |
+|  **Frontend** | React + Vite, HTML5, CSS3, JavaScript |
+|  **System** | Docker, Cloudflare Tunnel, GitHub Actions |
+|  **Desktop** | C#, WPF, MVVM, Entity Framework Core |
+|  **IoT** | Arduino (Sensors, LCD, Motor Control) |
 
 ---
 
