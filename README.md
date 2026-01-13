@@ -31,11 +31,11 @@
 ---
 
 ## 🚀 Featured Projects  
-- 🛍️ **TailocShop** – Web bán hàng MVC (JSP + Servlet + SQL Server) với tính năng giỏ hàng, voucher, checkout, và xuất Excel thống kê doanh thu  
-- 🧾 **Medical Record System** – Hệ thống quản lý hồ sơ bệnh nhân (Spring Boot + PostgreSQL + JWT Authentication)  
-- 🧠 **Smart Trash Can** – Dự án Arduino sử dụng cảm biến, LCD và hệ thống mở nắp tự động  
-- 🧩 **WPF Patient Manager** – Ứng dụng desktop quản lý bệnh nhân sử dụng **C# + Entity Framework Core + SQL Server**  
-- 🎮 **Unity Game Prototype** – Game 2D nhỏ dùng để học **AI movement** và **game physics**  
+-  **TailocShop** – Web bán hàng MVC (JSP + Servlet + SQL Server) với tính năng giỏ hàng, voucher, checkout, và xuất Excel thống kê doanh thu  
+-  **Medical Record System** – Hệ thống quản lý hồ sơ bệnh nhân (Spring Boot + PostgreSQL + JWT Authentication)  
+-  **Smart Trash Can** – Dự án Arduino sử dụng cảm biến, LCD và hệ thống mở nắp tự động  
+-  **WPF Patient Manager** – Ứng dụng desktop quản lý bệnh nhân sử dụng **C# + Entity Framework Core + SQL Server**  
+-  **Unity Game Prototype** – Game 2D nhỏ dùng để học **AI movement** và **game physics**  
 
 ---
 
